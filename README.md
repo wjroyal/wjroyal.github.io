@@ -1,42 +1,32 @@
-# Hi, I’m William Royal
+# Hi, I'm William J. Royal
 
-I’m a software engineer with interests in full-stack development, API-driven applications, data-oriented tools, and applied AI workflows.
+I'm a software engineer focused on full-stack development, applied AI, and building practical user-centered solutions. My work includes interactive front-end applications, data-oriented projects, and software built around real-world problem solving.
 
-My background combines software engineering, scientific problem-solving, and hands-on technical work. I enjoy building practical projects that connect front-end experiences, backend logic, data processing, and modern AI-assisted workflows.
+I'm especially interested in opportunities involving software engineering, full-stack development, modern web technologies, and AI-enabled workflows.
 
-## What I Work With
-
-- **Languages:** Python, JavaScript, TypeScript, C#, SQL, Kotlin
-- **Frameworks & Libraries:** Angular, React, ASP.NET Core, pandas, NumPy, Matplotlib
-- **Data & APIs:** REST APIs, JSON, MongoDB, PyMongo, SQL
-- **Tools & Platforms:** Git, GitHub, Docker, Linux/Unix, Visual Studio
-- **AI Workflow Experience:** Prompt development, LLM output evaluation, AI-assisted workflow support
-
-## Featured Projects
-
-### [Interactive World Map Application](https://github.com/wjroyal/SVG_interactivemap)
-Angular-based interactive SVG map that integrates REST APIs to display country-level data through a visual interface.
-
-### [Dragonfly Project](https://github.com/wjroyal/Dragonfly-project)
-Spectral data analysis project using Python, Kotlin, MongoDB, pandas, NumPy, and Matplotlib for ingestion, processing, storage, and visualization.
-
-### AI-Assisted Photo Editing Workflow
-Hands-on work evaluating model outputs, refining prompts, and improving response quality in AI-assisted image editing scenarios.
-
-### [Portfolio Website](https://wroyalfusion.org)
-Personal portfolio site for presenting projects, resume materials, and professional background.
+## Featured Areas
+- Full-stack development
+- Front-end engineering
+- Applied AI workflows
+- Interactive web applications
+- Data-driven software projects
 
 ## Current Focus
+- Building stronger production-ready software projects
+- Expanding full-stack and backend development skills
+- Strengthening applied AI and modern application workflows
+- Creating projects that combine usability, data, and engineering
 
-Right now I’m focused on growing in:
-- full-stack software engineering
-- backend/API design
-- data-driven applications
-- applied AI workflows
-- Docker and modern development tooling
+## Selected Projects
+- **Portfolio Website** – Professional site showcasing projects, experience, and career goals
+- **Interactive SVG World Map** – Angular-based front-end project focused on dynamic geographic interaction
+- **Dragonfly Project** – Data visualization workflow for processing and exploring CSV-based spectral data
+- **WeatherApp** – C# application for retrieving and displaying weather information
 
-## Connect With Me
-
+## Contact
+- **Email:** william.j.royal@gmail.com
 - **Portfolio:** [wroyalfusion.org](https://wroyalfusion.org)
-- **LinkedIn:** [linkedin.com/in/william-royal](https://www.linkedin.com/in/william-royal/)
 - **GitHub:** [github.com/wjroyal](https://github.com/wjroyal)
+
+## Tech Interests
+Angular, TypeScript, JavaScript, Python, C#, Node.js, SQL, MongoDB, REST APIs, Docker, and applied AI development
